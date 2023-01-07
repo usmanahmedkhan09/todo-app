@@ -1,6 +1,5 @@
 <template>
-  <header class="header"></header>
-  <main class="content"></main>
+  <div></div>
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";

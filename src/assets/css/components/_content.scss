@@ -1,0 +1,6 @@
+@use "../base/" as *;
+
+.content {
+  min-height: calc(100vh - 350px);
+  background-color: var(--dark-primary-blue);
+}
