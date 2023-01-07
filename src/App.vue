@@ -5,6 +5,7 @@
       <iconSunVue />
     </div>
     <div class="header__inputWrapper">
+      <input class="checkbox" type="checkbox" name="" id="" />
       <input
         class="header__inputWrapper--input"
         type="text"
