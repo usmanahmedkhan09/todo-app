@@ -3,4 +3,21 @@
   background-image: url("../images/bg-desktop-dark.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
+  display: flex;
+  align-items: center;
+
+  &__title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60rem;
+    margin: auto;
+
+    h1 {
+      color: var(--dark-secondary-grayblue);
+      font-weight: 700;
+      font-size: 4.2rem;
+      letter-spacing: 2rem;
+    }
+  }
 }
