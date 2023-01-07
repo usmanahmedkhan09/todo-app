@@ -4,6 +4,13 @@
       <h1>TODO</h1>
       <iconSunVue />
     </div>
+    <div class="header__inputWrapper">
+      <input
+        class="header__inputWrapper--input"
+        type="text"
+        placeholder="Create a new todo...."
+      />
+    </div>
   </header>
   <main class="content"></main>
 </template>
